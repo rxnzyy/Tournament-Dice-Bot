@@ -1,4 +1,4 @@
-
+# \[BETA-VERSION. V1.0 \]
 # 🎲 Tournament Dice Game Telegram Bot
 
 Telegram‑бот для проведения турниров с использованием кубика.
