@@ -59,6 +59,5 @@ tg_game_bot/
 ├── Dockerfile
 └── README.md
 ```
-### Документация
-## 🌐 OFFICIAL DOCUMENTATION  
-[Официальная документация](https://dicebotdoc.glitch.me/)
+### Документация  
+[🌐 OFFICIAL DOCUMENTATION](https://dicebotdoc.glitch.me/)
