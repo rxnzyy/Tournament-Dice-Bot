@@ -60,3 +60,5 @@ tg_game_bot/
 └── README.md
 ```
 ### Документация
+## 🌐 OFFICIAL DOCUMENTATION  
+[Официальная документация](https://dicebotdoc.glitch.me/)
